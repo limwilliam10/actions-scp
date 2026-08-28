@@ -1,4 +1,5 @@
 # 🚀 GitHub Actions 的 SCP
+This is just to localized the tool. All licenses and credits goes to [appleboy](https://github.com/appleboy).
 
 [English](README.md) | [繁體中文](README.zh-tw.md)
 
